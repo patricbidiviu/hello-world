@@ -1,0 +1,13 @@
+-	Download and Install GIT from here https://git-scm.com/download/win
+-	Create a .gitconfig file with content similar to the attached .gitconfig file
+-	Clone your repository (e.g git clone repo/path.git location/path)
+-	ALWAYS work on a separate branch (also called feature branch), NEVER work directly on the master branch.
+-	Create a new branch and switch to it (git checkout -b newBranchName)
+	Usually the branch is named using the following style: featureName-IUser
+
+
+References:
+-	https://www.siteground.com/tutorials/git/commands/ - git short tutorial
+-	http://rogerdudler.github.io/git-guide/ - git short tutorial
+-	http://start.spring.io/ - starter for a Spring Project
+-	https://www.lynda.com/Spring-tutorials/Spring-Boot-Essential-Training/653258-2.html - Spring tutorial
