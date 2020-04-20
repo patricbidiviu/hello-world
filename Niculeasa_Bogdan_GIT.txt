@@ -4,7 +4,7 @@
 -	ALWAYS work on a separate branch (also called feature branch), NEVER work directly on the master branch.
 -	Create a new branch and switch to it (git checkout -b newBranchName)
 	Usually the branch is named using the following style: featureName-IUser
-
+- Have fun
 
 References:
 -	https://www.siteground.com/tutorials/git/commands/ - git short tutorial
